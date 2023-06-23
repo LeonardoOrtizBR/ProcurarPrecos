@@ -31,8 +31,11 @@ Para executar o código, siga as etapas abaixo:
 
 Após a execução do código, um arquivo chamado `Ofertas.xlsx` será gerado. Esse arquivo conterá os resultados da pesquisa, incluindo os produtos encontrados e seus respectivos links.
 
-Desejo sucesso na utilização deste projeto e espero que seja útil para encontrar as melhores ofertas de produtos!
+Abaixo, uma imagem de como o e-mail é recebido:
+
+![PrintEmail](https://github.com/LeonardoOrtizBR/ProcurarPrecos/assets/135072424/765482b8-cb42-45a1-838c-f06bdf53f984)
 
 ---
 
 *Nota: O projeto apresentado é uma demonstração simples e pode ser aprimorado conforme suas necessidades. Sinta-se à vontade para personalizá-lo e adicionar recursos adicionais conforme desejado.*
+
