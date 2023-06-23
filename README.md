@@ -33,7 +33,7 @@ Após a execução do código, um arquivo chamado `Ofertas.xlsx` será gerado. E
 
 Abaixo, uma imagem de como o e-mail é recebido:
 
-![PrintEmail](https://github.com/LeonardoOrtizBR/ProcurarPrecos/assets/135072424/765482b8-cb42-45a1-838c-f06bdf53f984)
+![PrintEmail](https://github.com/LeonardoOrtizBR/ProcurarPrecos/assets/135072424/a1cbed9c-fea8-494a-93c5-e0d82e9cee16)
 
 ---
 
